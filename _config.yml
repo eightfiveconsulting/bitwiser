@@ -29,7 +29,7 @@ links:
   facebook: username
   twitter: username
   email: rachel@eightfiveconsulting.uk
-  github: username
+  github: 
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: placeholder.jpg
