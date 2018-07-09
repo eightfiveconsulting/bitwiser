@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Seven is a cutie"
+date:   2018-07-09 23:05:00
+categories: 
+---
+
+# Seven is a cutie
+
+But unfortunately she **dribbles** all over the ~~keyboard~~ laptop.
